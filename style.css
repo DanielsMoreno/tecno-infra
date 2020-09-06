@@ -18,6 +18,11 @@ h1{
 	color: #e2dbdb;
 }
 
+h3{
+	/*font-size: 1rem;*/
+	color: #BA9595;
+}
+
 hr{
 	border-color: #f05f44;
 	border-width: 3px;
